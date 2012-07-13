@@ -1,0 +1,11 @@
+This is a Snake game composed of both version Ruby as well as Python.
+
+Ruby Persion
+go to the command line and enter
+ruby "‎filename.rb"
+Select the game A or B.
+Enter the Start position and then the action string.
+The final position will be the output.
+
+Python Version
+Python "filename.py"
